@@ -1,0 +1,38 @@
+{
+  "name": "SINDOFood",
+  "short_name": "SINDOFood",
+  "start_url": "https://www.sindofood.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-Z0wtVAM90W8/XzSGaw4fLkI/AAAAAAAAAEo/fQn_XYEYheMl1UpcaKVufWksdGf3xe34QCLcBGAsYHQ/s48/SINDOFood.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Z0wtVAM90W8/XzSGaw4fLkI/AAAAAAAAAEo/fQn_XYEYheMl1UpcaKVufWksdGf3xe34QCLcBGAsYHQ/s72/SINDOFood.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Z0wtVAM90W8/XzSGaw4fLkI/AAAAAAAAAEo/fQn_XYEYheMl1UpcaKVufWksdGf3xe34QCLcBGAsYHQ/s96/SINDOFood.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Z0wtVAM90W8/XzSGaw4fLkI/AAAAAAAAAEo/fQn_XYEYheMl1UpcaKVufWksdGf3xe34QCLcBGAsYHQ/s144/SINDOFood.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Z0wtVAM90W8/XzSGaw4fLkI/AAAAAAAAAEo/fQn_XYEYheMl1UpcaKVufWksdGf3xe34QCLcBGAsYHQ/s168/SINDOFood.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Z0wtVAM90W8/XzSGaw4fLkI/AAAAAAAAAEo/fQn_XYEYheMl1UpcaKVufWksdGf3xe34QCLcBGAsYHQ/s192/SINDOFood.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Z0wtVAM90W8/XzSGaw4fLkI/AAAAAAAAAEo/fQn_XYEYheMl1UpcaKVufWksdGf3xe34QCLcBGAsYHQ/s512/SINDOFood.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
